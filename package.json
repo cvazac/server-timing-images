@@ -1,0 +1,25 @@
+{
+  "name": "server-timing-images",
+  "version": "1.0.0",
+  "description": "Annotate IMG nodes with metadata from the Server-Timing API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvazac/server-timing-images.git"
+  },
+  "keywords": [
+    "resource-timing",
+    "server-timing",
+    "images",
+    "performanceobserver"
+  ],
+  "author": "Charles Vazac <cvazac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvazac/server-timing-images/issues"
+  },
+  "homepage": "https://github.com/cvazac/server-timing-images#readme"
+}
